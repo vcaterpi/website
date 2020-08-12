@@ -1,8 +1,0 @@
-DirectoryIndex index.html
-
-RewriteEngine On
-
-
-RewriteRule ^htline(/?)+$ /htline.html [L]
-RewriteRule ^ontarget(/?)+$ /ontarget.html [L]
-RewriteRule ^shl(/?)+$ /shl.html [L]
